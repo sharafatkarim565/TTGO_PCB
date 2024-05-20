@@ -17,7 +17,14 @@ TECHTONICS TTGO T-Call v1.3 ESP32 Wireless Communication Module for Arduino | SI
 
 
 
-https://github.com/sharafatkarim565/TTGO_PCB/assets/169882984/26038614-4a08-4824-82a2-fff87d648c80
+
+
+
+https://github.com/sharafatkarim565/TTGO_PCB/assets/169882984/35da6a52-983e-43cd-ab66-9002d637396b
+
+
+
+
 
 
 
